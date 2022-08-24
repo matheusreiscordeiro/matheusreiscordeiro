@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning all of DevOps(Git, Docker, Swarm, Kubernetes, AWS, Azure, GCP, Gitlab, Terraform, Ansible, Nexus, Zabbix, Grafana, CI/CD, Puppet, Nginx, Shell, Linux(Debian, CentOS, Ubuntu), Mysql, Postgres and Python)
 - 💞️ I’m looking to collaborate on DevOps, AWS and Data Engineering
 - 📫 matheus.reis.etel.12@gmail.com
--   linkedin.com/in/matheus-reis-cordeiro![Dockerfile]
+-   linkedin.com/in/matheus-reis-cordeiro
 
